@@ -9,28 +9,28 @@ repo_url: https://github.com/lfavole/radio-song-finder
 theme:
   name: material
   icon:
-    logo: material/music-note
+    logo: material/radio
     repo: fontawesome/brands/github
 
   palette:
     # Palette toggle for automatic mode
-    - primary: green
-      accent: green
+    - primary: red
+      accent: red
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
-    - primary: green
-      accent: green
+    - primary: red
+      accent: red
       scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - primary: green
-      accent: green
+    - primary: red
+      accent: red
       scheme: slate
       toggle:
         icon: material/weather-night
